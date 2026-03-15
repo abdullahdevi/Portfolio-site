@@ -6,7 +6,7 @@ The website showcases my projects, skills, and contact information.
 ## Live Website
 You can view the portfolio here:
 
-https://abdullahdevi.github.io/portfolio-site/
+https://abdullahdevi.github.io/Portfolio-site/
 
 ## About Me
 I am an Information Technology student interested in software development, web development, and building useful applications. This portfolio highlights some of my technical projects and work.
