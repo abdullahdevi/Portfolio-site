@@ -35,7 +35,7 @@ git clone https://github.com/abdullahdevi/portfolio-site.git
 
 2. Open the folder
 
-3. Open `portfolio.html` in your browser
+3. Open `index.html` in your browser
 
 ## Author
 Abdullah Imran
